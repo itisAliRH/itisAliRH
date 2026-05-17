@@ -41,13 +41,14 @@ I also build private prototypes around personal finance automation, job applicat
 **Backend and data:** Node.js, Express, FastAPI, REST APIs, GraphQL, PostgreSQL, Supabase, MongoDB  
 **Testing and CI/CD:** Playwright, Cypress, Jest, Vitest, GitHub Actions  
 **Cloud and DevOps:** Docker, Kubernetes, Vercel, Cloudflare, AWS, Linux  
+**AI-assisted development:** GitHub Copilot/Codex, Claude Code, Cursor  
 **Practices:** open-source collaboration, code review, modular architecture, secure system design, technical mentoring
 
 ## Talks and publications
 
 I have presented and contributed to work around Galaxy workflows, notification systems, Vuex-to-Pinia migration, search improvements, credential handling, and FAIR research software.
 
-A full list is available on my website and ORCID.
+A full list is available on [my website](https://heidari.me) and [ORCID](https://orcid.org/0000-0003-0315-4403).
 
 ## Links
 
