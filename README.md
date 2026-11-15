@@ -18,25 +18,25 @@ I use AI coding agents every day (Claude Code, Codex, Cursor) and build AI-enabl
 
 ## Selected work
 
-### [Galaxy Project](https://github.com/galaxyproject/galaxy)
+### [Galaxy](https://github.com/galaxyproject/galaxy)
 
-Core open-source contributions to the Galaxy ecosystem, including frontend modernization, notification workflows, credentials-related interfaces, contribution tools, and reusable UI infrastructure.
+Open-source data analysis platform with 650,000+ registered users on its public services in Europe, the US and Australia. I contributed to the Galaxy client as a volunteer before joining the team in August 2022, and have been a core committer since August 2024.
+
+- Scoped and designed Galaxy's command palette (Cmd/Ctrl+K) end to end: data layer and caching, UI, and extension points for reuse.
+- Contributed to the [Galaxy Hub](https://github.com/galaxyproject/galaxy-hub) rewrite from Gridsome (Vue 2) to Astro (4,300+ pages migrated, URLs and SEO kept) and presented it at GCC2026.
+- [RSEc Atlas](https://github.com/research-software-ecosystem/RSEc-Atlas): Nuxt and TypeScript catalogue for exploring metadata across 45,000+ research software tools, with search and filtering, shareable URLs and statically compiled metadata. Split the search index so the first results load after 1.2 MB instead of 5.4 MB.
+
+### Apply Assistant
+
+Job-application platform in private beta with selected users. It automates every step up to submission (research, tailoring, compile, form-answer drafts); the user reviews and submits. A remote MCP server lets agents work with per-scope tools and a review queue where the user approves each agent patch. Built with Next.js, React and TypeScript on Cloudflare Workers, D1 and R2.
 
 ### [Discens](https://github.com/itisAliRH/discens)
 
-AI-powered language learning app started as a 48-hour hackathon prototype and later refined with Supabase auth, FSRS-based reviews, AI-generated quizzes, and voice conversation features.
+AI-powered language learning app that began as a 48-hour prototype. Built with Next.js, TypeScript and Supabase, with FSRS spaced repetition, AI-generated quizzes and voice conversation (OpenAI, ElevenLabs).
 
-### [GitHub Chrome Toolkit Extension](https://github.com/itisAliRH/GitHub-Chrome-Toolkit-Extension)
+### [heidari.me](https://heidari.me)
 
-Chrome MV3 extension that improves GitHub notification triage, bulk opening workflows, and PR branch cleanup.
-
-### [RSEc Atlas](https://github.com/research-software-ecosystem/RSEc-Atlas)
-
-Nuxt-based frontend for aggregating metadata for research software tools, focused on performance, clean architecture, and maintainable deployment.
-
-### Private and experimental systems
-
-I also build private prototypes around personal finance automation, job application workflows, document processing, and self-hostable productivity tools.
+English and German case-study site that agents can read (llms.txt, markdown negotiation, WebMCP), with Playwright and axe tests. Next.js static export on Cloudflare Pages.
 
 ## Tech stack
 
