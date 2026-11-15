@@ -4,13 +4,17 @@ Senior Software Engineer based in Freiburg, Germany, with 6+ years of experience
 
 Since August 2022 I have worked as a Software Engineer on [Galaxy](https://galaxyproject.org) at the University of Freiburg. Galaxy is an open-source data analysis platform with 650,000+ registered users on its public services in Europe, the US and Australia. I have been one of its core committers since August 2024. Before that I was an early hire at a genomics startup, where I owned all engineering end to end.
 
-## What I work on
+## Recent work at Galaxy
 
-- **Platform engineering:** secure credentials management, notification workflows, developer-facing tooling, and scalable user-facing features.
-- **Frontend architecture:** Vue 3, TypeScript, Pinia, React, Next.js, Nuxt, reusable UI infrastructure, accessibility, and testing.
-- **Data-heavy workflows:** dashboards, reporting interfaces, research data workflows, and cloud-based genomic analysis systems.
-- **Engineering quality:** code review, CI/CD, automated testing, maintainability, technical mentoring, and long-lived codebase modernization.
-- **AI-enabled tools:** practical AI features for learning, productivity, and workflow automation, with human review and clear system boundaries.
+- Drove the Vue 3 migration of the Galaxy client, including browser-test triage that took Selenium and Playwright from 142 failures to zero.
+- Designed the shared table component (GTable) and moved about ten product areas onto it.
+- Designed the tool credentials and secrets system (Python API, Vue client) and guided its implementation across the team.
+- Cut the main stylesheet by two thirds (3.7 MB to 1.2 MB) and documentation CI from about 83 to 15 minutes.
+- Fixed production bugs, including a webhook regression that hit about 1,000 users.
+
+As a core committer I review cross-team changes, mentor contributors and take part in technical hiring.
+
+I use AI coding agents every day (Claude Code, Codex, Cursor) and build AI-enabled products in my own time. Decisions, review and quality stay mine.
 
 ## Selected work
 
