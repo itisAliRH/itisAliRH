@@ -1,8 +1,8 @@
 # Hi, I'm Alireza Heidari
 
-Senior Software Engineer based in Germany, focused on full-stack and frontend-heavy platform engineering. I build secure, maintainable, data-intensive web systems that make complex scientific, operational, and user-facing workflows easier to use.
+Senior Software Engineer based in Freiburg, Germany, with 6+ years of experience in full-stack product engineering. I build the shared components, APIs and data layers a product runs on, and move old code onto them in small, measured steps.
 
-I currently work on the Galaxy Project at the University of Freiburg, where I contribute to open-source research infrastructure used by large scientific communities.
+Since August 2022 I have worked as a Software Engineer on [Galaxy](https://galaxyproject.org) at the University of Freiburg. Galaxy is an open-source data analysis platform with 650,000+ registered users on its public services in Europe, the US and Australia. I have been one of its core committers since August 2024. Before that I was an early hire at a genomics startup, where I owned all engineering end to end.
 
 ## What I work on
 
