@@ -50,7 +50,7 @@ English and German case-study site that agents can read (llms.txt, markdown nego
 
 ## Talks and publications
 
-I have presented and contributed to work around Galaxy workflows, notification systems, Vuex-to-Pinia migration, search improvements, credential handling, and FAIR research software.
+Talks and posters at the Galaxy Community Conference 2023, 2024 and 2026 and at European Galaxy Days 2025, on topics such as workflow management, the Vuex-to-Pinia migration, credential handling for tools and the Galaxy Hub rewrite.
 
 A full list is available on [my website](https://heidari.me) and [ORCID](https://orcid.org/0000-0003-0315-4403).
 
