@@ -24,7 +24,7 @@ I use AI coding agents every day (Claude Code, Codex, Cursor) and build AI-enabl
 
 I contributed to the Galaxy client as a volunteer before joining the team in August 2022. More highlights:
 
-- Scoped and designed Galaxy's command palette (Cmd/Ctrl+K) end to end: data layer and caching, UI, and extension points for reuse.
+- Scoped and designed Galaxy's [command palette](https://github.com/galaxyproject/galaxy/pull/23472) (Cmd/Ctrl+K) end to end: data layer and caching, UI, and extension points for reuse.
 - Contributed to the [Galaxy Hub](https://github.com/galaxyproject/galaxy-hub) rewrite from Gridsome (Vue 2) to Astro (4,300+ pages migrated, URLs and SEO kept) and presented it at GCC2026.
 - [RSEc Atlas](https://github.com/research-software-ecosystem/RSEc-Atlas): Nuxt and TypeScript catalogue for exploring metadata across 45,000+ research software tools, with search and filtering, shareable URLs and statically compiled metadata. Split the search index so the first results load after 1.2 MB instead of 5.4 MB.
 
