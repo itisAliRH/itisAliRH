@@ -1,12 +1,12 @@
 # Hi, I'm Alireza Heidari
 
-Senior Software Engineer based in Freiburg, Germany, with 6+ years of experience in full-stack product engineering. I build the shared components, APIs and data layers a product runs on, and move old code onto them in small, measured steps.
+Senior Software Engineer based in Freiburg, Germany, with 6+ years of experience, focused on full-stack product engineering. I build the shared components, APIs and data layers a product runs on, and move old code onto them in small, measured steps.
 
 Since August 2022 I have worked as a Software Engineer on [Galaxy](https://galaxyproject.org) at the University of Freiburg. Galaxy is an open-source data analysis platform with 650,000+ registered users on its public services in Europe, the US and Australia. I have been one of its core committers since August 2024. Before that I was an early hire at a genomics startup, where I owned all engineering end to end.
 
 ## Recent work at Galaxy
 
-- Drove the Vue 3 migration of the Galaxy client, including browser-test triage that took Selenium and Playwright from 142 failures to zero.
+- Drove the Vue 3 migration of the Galaxy client, including [browser-test triage](https://github.com/galaxyproject/galaxy/issues/23830) that took Selenium and Playwright from 142 failures to zero.
 - Designed the shared table component (GTable) and moved about ten product areas onto it.
 - Designed the tool credentials and secrets system (Python API, Vue client) and guided its implementation across the team.
 - Cut the main stylesheet by two thirds (3.7 MB to 1.2 MB) and documentation CI from about 83 to 15 minutes.
@@ -20,7 +20,7 @@ I use AI coding agents every day (Claude Code, Codex, Cursor) and build AI-enabl
 
 ### [Galaxy](https://github.com/galaxyproject/galaxy)
 
-Open-source data analysis platform with 650,000+ registered users on its public services in Europe, the US and Australia. I contributed to the Galaxy client as a volunteer before joining the team in August 2022, and have been a core committer since August 2024.
+I contributed to the Galaxy client as a volunteer before joining the team in August 2022. More highlights:
 
 - Scoped and designed Galaxy's command palette (Cmd/Ctrl+K) end to end: data layer and caching, UI, and extension points for reuse.
 - Contributed to the [Galaxy Hub](https://github.com/galaxyproject/galaxy-hub) rewrite from Gridsome (Vue 2) to Astro (4,300+ pages migrated, URLs and SEO kept) and presented it at GCC2026.
