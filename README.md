@@ -43,10 +43,10 @@ English and German case-study site that agents can read (llms.txt, markdown nego
 **Languages:** TypeScript, JavaScript, Python, SQL, Bash  
 **Frontend:** Vue, Nuxt, React, Next.js, Pinia, Tailwind CSS, HTML, CSS  
 **Backend and data:** Node.js, Express, FastAPI, REST APIs, GraphQL, PostgreSQL, Supabase, MongoDB  
-**Testing and CI/CD:** Playwright, Cypress, Jest, Vitest, GitHub Actions  
-**Cloud and DevOps:** Docker, Kubernetes, Vercel, Cloudflare, AWS, Linux  
-**AI-assisted development:** GitHub Copilot/Codex, Claude Code, Cursor  
-**Practices:** open-source collaboration, code review, modular architecture, secure system design, technical mentoring
+**Testing and CI/CD:** Playwright, Selenium, Cypress, Jest, Vitest, GitHub Actions  
+**Cloud and DevOps:** Docker, Kubernetes, Cloudflare Workers/D1/R2, Vercel, Linux  
+**AI:** Claude Code, Codex, Cursor, GitHub Copilot, Vercel AI SDK, MCP  
+**Practices:** API design, secure system design, accessibility, performance optimization, code review, technical mentoring
 
 ## Talks and publications
 
